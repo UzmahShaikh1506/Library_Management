@@ -2,7 +2,7 @@
 
 ## **This project implements a simple library management system using Java Swing..**
 
-**Java Swing is a part of Java Foundation Classes (JFC) that is used to create window-based applications.**
+*Java Swing is a part of Java Foundation Classes (JFC) that is used to create window-based applications.*
 The javax.swing package provides classes for java swing API such as JButton, JTextField, JTextArea, JRadioButton, JCheckbox, JMenu, JColorChooser etc.
 ---
 
