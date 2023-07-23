@@ -2,7 +2,7 @@
 
 ## **This project implements a simple library management system using Java Swing..**
 
-1. I have extended **JFrame** to create the GUI application. **JFrame** is a top-level window with a title bar, close button, etc.
+Extended **JFrame** to create the GUI application. **JFrame** is a top-level window with a title bar, close button, etc.
 
 ---
 
