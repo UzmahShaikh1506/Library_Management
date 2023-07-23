@@ -36,3 +36,9 @@ Extended **JFrame** to create the GUI application. **JFrame** is a top-level 
 6. The Delete button removes a book from the ArrayList based on the book ID.
 7. The Clear button simply clears all the text fields.
 8. The Exit button exits the Java application.
+
+---
+
+### **Output:** 
+![image](https://github.com/UzmahShaikh1506/Library_Management/assets/131281147/cbd736b4-9273-4945-b943-9bea65e2f2a3)
+
